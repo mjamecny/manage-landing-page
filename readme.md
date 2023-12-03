@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/manage-landing-page-with-tailwindcss-B9nG_mVK2p)
 - Live Site URL: [Netlify](https://fm-challenge-manage-landing-page.netlify.app/)
 
 ## My process
