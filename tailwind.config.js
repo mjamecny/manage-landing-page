@@ -12,6 +12,9 @@ export default {
       veryDarkBlue: "hsl(233, 12%, 13%)",
       veryPaleRed: "hsl(13, 100%, 96%)",
       veryLightGray: "hsl(0, 0%, 98%)",
+      gradient1: "rgba(0, 0, 0, 0.05)",
+      gradient2: "rgba(0, 0, 0, 0.7)",
+      transparent: "transparent",
     },
     spacing: {
       0.2: "2px",
