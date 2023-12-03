@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.splide__track {
+  overflow: visible;
+}
+
+.splide__pagination__page {
+  border: 2px solid hsl(12, 88%, 59%);
+}
+
+.splide__pagination__page.is-active {
+  background-color: hsl(12, 88%, 59%);
+}
